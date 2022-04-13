@@ -22,4 +22,4 @@
 
   ## Pull Requests
 
-  [Lab 18 Pull Request]()
+  [Lab 18 Pull Request](https://github.com/AndresMillsGallego/serverless-api/pull/1)
